@@ -4,7 +4,7 @@
 - - 💞️ I’m looking to collaborate: on anything to do with cyber security I would love to join a community of cyber security enthusists, more so I would love to go to a hacker con. 
 - 📫 How to reach me: best by email.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I hacked a web server 
+- ⚡ Fun fact: I wish
 
 <!---
 alecthepilot/alecthepilot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
